@@ -27,12 +27,7 @@ A comprehensive application for chatting with banking financial documents
     poetry shell
     ```
 
-4. **Run the project** (replace this with your specific instructions):
+4. **Run the project** :
     ```sh
-    # Example command to run the project
-    python main.py
+    ##
     ```
-
-## Additional Information
-
-- Any additional setup or configuration steps can be detailed here.
