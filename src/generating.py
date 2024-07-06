@@ -38,4 +38,4 @@ def main(query: str):
         | llm
         | StrOutputParser()
     )
-    baseline.invoke(query)
+    return baseline.invoke(query)
