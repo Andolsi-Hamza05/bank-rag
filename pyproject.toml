@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "bank-rag"
+version = "0.1.0"
+description = "A financial banking chatbot to interact with customers about the bank(products,services,issues,...)"
+authors = ["Andolsi-Hamza05 <hamza.landolsi@essai.ucar.tn>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
