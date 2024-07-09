@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "bank-rag"
+name = "src"
 version = "0.1.0"
 description = "A financial banking chatbot to interact with customers about the bank(products,services,issues,...)"
 authors = ["Andolsi-Hamza05 <hamza.landolsi@essai.ucar.tn>"]
@@ -17,6 +17,13 @@ pypdf = "^4.2.0"
 langchain-chroma = "^0.1.2"
 docarray = "^0.40.0"
 sentence-transformers = "^3.0.1"
+fastapi = "^0.111.0"
+uvicorn = "^0.30.1"
+pydantic = "^2.8.2"
+requests = "^2.32.3"
+pypi-json = "^0.4.0"
+pyngrok = "^7.1.6"
+nest-asyncio = "^1.6.0"
 
 
 [build-system]

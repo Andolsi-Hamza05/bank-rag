@@ -2,7 +2,7 @@ from typing import List
 from langchain.embeddings import SentenceTransformerEmbeddings
 from langchain_chroma import Chroma
 from langchain_core.documents.base import Document
-from preprocessing import TextProcessor
+from src.preprocessing import TextProcessor
 
 
 class VectorStoreIngestor:
