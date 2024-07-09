@@ -13,7 +13,7 @@ A comprehensive application for chatting with banking financial documents
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/<username>/<repository>.git
+    git clone https://github.com/Andolsi-Hamza05/bank-rag.git
     cd <repository>
     ```
 
